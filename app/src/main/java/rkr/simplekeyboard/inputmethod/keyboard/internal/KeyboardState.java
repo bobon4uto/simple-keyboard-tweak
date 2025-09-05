@@ -522,7 +522,7 @@ public final class KeyboardState {
 	}
 
 	public boolean isShiftKeyChording() {
-		return mShiftKeyState.isShiftKeyChording();
+		return mShiftKeyState.isChording();
 	}
 
 	public void onFinishSlidingInput(final int autoCapsFlags, final int recapitalizeMode) {
