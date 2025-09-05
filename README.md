@@ -26,6 +26,7 @@ Feature it doesn't have and probably will never have:
 
 Tweaks:
 - Added forward erase functionality (Shift + Backspace)
+(diff is huge because I'm an idiot and formatted all files I changed.)
 
 ## Downloads
 
