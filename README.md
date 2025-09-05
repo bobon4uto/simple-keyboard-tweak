@@ -24,6 +24,9 @@ Feature it doesn't have and probably will never have:
 - Spell checker
 - Swipe typing
 
+Tweaks:
+- Added forward erase functionality (Shift + Backspace)
+
 ## Downloads
 
 [<img src="https://f-droid.org/badge/get-it-on.png"
